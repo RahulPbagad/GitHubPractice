@@ -1,3 +1,9 @@
+How to update file or code?
+git add test.txt
+git commit -m "Updated test.txt"
+git push
+
+
 This is my first git file.
 
 git status
