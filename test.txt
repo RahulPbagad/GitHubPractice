@@ -1,1 +1,27 @@
 This is my first git file.
+
+git status
+ls
+git commit -m "Added test file"
+git log
+git add test.txt
+pwd
+git init = Initialize Git
+git config --list
+git config --global user.email "your-email@gmail.com"
+git config --global user.name "Rahul"
+git remote add origin https://github.com/username/GitHubPractice.git
+  = for add GitHub link
+git remote -v = for verify link
+git push -u origin master = Push Code to GitHub
+
+Q: How do you push local code to GitHub?
+git init
+git add .
+git commit -m "message"
+git remote add origin <url>
+git push origin master.
+
+
+
+
